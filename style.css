@@ -1,0 +1,26 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+   
+   html {
+     text-align: center;
+     background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/24d4b311-b61b-433d-a601-8478118cf392/dd6k5ze-4afb3da4-b66d-403f-bffe-952211ca9580.png/v1/fill/w_1024,h_576,q_80,strp/minimalist_landscape__f2u__by_knoxthewolf_dd6k5ze-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01NzYiLCJwYXRoIjoiXC9mXC8yNGQ0YjMxMS1iNjFiLTQzM2QtYTYwMS04NDc4MTE4Y2YzOTJcL2RkNms1emUtNGFmYjNkYTQtYjY2ZC00MDNmLWJmZmUtOTUyMjExY2E5NTgwLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.GumskT-rh0EXf2ge3T6n1Mwnp9TYLevI_nc6En7al5M');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+   }
+  
+        body { 
+             text-align: center;
+             align-content: center;
+              border-style: dotted;
+                      padding: 100px;
+                      width: auto;
+                      margin-top: 150px;
+                      margin-right: 500px;
+                      margin-left: 500px;
+                      margin-bottom: 150px;
+                      height: auto;
+                      background: #3d424e;
+                      color: white;
+}
